@@ -7,7 +7,7 @@
 仅适用于`x64/arm64`架构（新手机平板基本都是`arm64`架构）
 
 ## 使用方式
-1. 在release页面中下载本项目的`release.zip`模块
+1. 在`Releases`页面中下载本项目的`release.zip`模块
 2. 打开magisk并安装模块
 3. 重启后即可运行
 
