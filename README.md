@@ -29,6 +29,6 @@
 
 
 ## 引用
-[se-boot](https://github.com/hvhghv/se-boot)
-[chroot-container](https://github.com/hvhghv/chroot-container)
-[magisk-module-installer-translated-chinese-simplified](https://github.com/fenildf/magisk-module-installer-translated-chinese-simplified)
+- [se-boot](https://github.com/hvhghv/se-boot)
+- [chroot-container](https://github.com/hvhghv/chroot-container)
+- [magisk-module-installer-translated-chinese-simplified](https://github.com/fenildf/magisk-module-installer-translated-chinese-simplified)
